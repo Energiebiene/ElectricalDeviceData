@@ -1,0 +1,65 @@
+[
+  {
+    "manufacturer": "Bauknecht",
+    "model": "WM ELITE 9A",
+    "productionYear": 2022,
+    "wattPerCycle": 490,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "manufacturer": "Bosch",
+    "model": "WAS28443",
+    "productionYear": 2011,
+    "wattPerCycle": 859,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "manufacturer": "Bosch",
+    "model": "WAV28M33",
+    "productionYear": 2021,
+    "wattPerCycle": 480,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "manufacturer": "Samsung",
+    "model": "WW91TA049AE",
+    "productionYear": 2021,
+    "wattPerCycle": 490,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "manufacturer": "Samsung",
+    "model": "WW1BBBA049AW",
+    "productionYear": 2022,
+    "wattPerCycle": 530,
+    "capacity": 11,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "manufacturer": "Samsung",
+    "model": "WW80T654ALE",
+    "productionYear": 2022,
+    "wattPerCycle": 550,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "manufacturer": "Siemens",
+    "model": "iQ300 WM14N2EP2",
+    "productionYear": 2022,
+    "wattPerCycle": 510,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+     "manufacturer": "Amica",
+     "model": "GSP 14745 W",
+     "productionYear": 2018,
+     "wattPerCycle": 920,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Amica",
+     "model": "GSP 14746 W",
+     "productionYear": 2018,
+     "wattPerCycle": 700,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "AEG",
+     "model": "F66600IM0P",
+     "productionYear": 2014,
+     "wattPerCycle": 940,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "AEG",
+     "model": "FEE63600PM",
+     "productionYear": 2016,
+     "wattPerCycle": 840,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "AEG",
+     "model": "EGSP 14895 E",
+     "productionYear": 2017,
+     "wattPerCycle": 760,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "AEG",
+     "model": "FSB52637P",
+     "productionYear": 2020,
+     "wattPerCycle": 940,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bauknecht",
+     "model": "BFE 2B19",
+     "productionYear": 2016,
+     "wattPerCycle": 1040,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bauknecht",
+     "model": "DSN28431X",
+     "productionYear": 2017,
+     "wattPerCycle": 850,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bauknecht",
+     "model": "BSBO 3O23 PF X",
+     "productionYear": 2019,
+     "wattPerCycle": 760,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bauknecht",
+     "model": "IBBC 3C33 X",
+     "productionYear": 2021,
+     "wattPerCycle": 850,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bauknecht",
+     "model": "BSFO 3O21 PF",
+     "productionYear": 2021,
+     "wattPerCycle": 760,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Beko",
+     "model": "DSN6634FX2",
+     "productionYear": 2018,
+     "wattPerCycle": 950,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Beko",
+     "model": "DIS25011",
+     "productionYear": 2018,
+     "wattPerCycle": 840,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Beko",
+     "model": "DSN04310X",
+     "productionYear": 2018,
+     "wattPerCycle": 1050,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Beko",
+     "model": "DIS35023",
+     "productionYear": 2021,
+     "wattPerCycle": 760,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bosch",
+     "model": "Serie 8 SMU88TS06E",
+     "productionYear": 2015,
+     "wattPerCycle": 750,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bosch",
+     "model": "Serie 2 SBV24AX00E",
+     "productionYear": 2016,
+     "wattPerCycle": 1020,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": false
+  },
+  {
+     "manufacturer": "Bosch",
+     "model": "Serie 2 SMV24AX00E",
+     "productionYear": 2016,
+     "wattPerCycle": 1020,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bosch",
+     "model": "Serie 6 SMI68TS06E",
+     "productionYear": 2016,
+     "wattPerCycle": 850,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bosch",
+     "model": "Serie 4 SMI46IS04D",
+     "productionYear": 2017,
+     "wattPerCycle": 940,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bosch",
+     "model": "Serie 6 SPU66PS00E",
+     "productionYear": 2017,
+     "wattPerCycle": 700,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bosch",
+     "model": "Serie 6 SME68TX26E",
+     "productionYear": 2018,
+     "wattPerCycle": 850,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bosch",
+     "model": "Serie 4 SPS46MI01E",
+     "productionYear": 2019,
+     "wattPerCycle": 840,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bosch",
+     "model": "Serie 4 SMI4HAS48E",
+     "productionYear": 2020,
+     "wattPerCycle": 840,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bosch",
+     "model": "Serie 6 SPV6YMX11E",
+     "productionYear": 2021,
+     "wattPerCycle": 510,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Bosch",
+     "model": "Serie 2 SPS2HKI57E",
+     "productionYear": 2022,
+     "wattPerCycle": 700,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Constructa",
+     "model": "CG3A01J5",
+     "productionYear": 2015,
+     "wattPerCycle": 1020,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Constructa",
+     "model": "CP5VX00HKD",
+     "productionYear": 2021,
+     "wattPerCycle": 700,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Elektra Bregenz",
+     "model": "GIVS 54180 X",
+     "productionYear": 2018,
+     "wattPerCycle": 810,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Exquisit",
+     "model": "EGSP1009-EB-030E",
+     "productionYear": 2022,
+     "wattPerCycle": 700,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Miele",
+     "model": "G 6200 SCi ",
+     "productionYear": 2014,
+     "wattPerCycle": 850,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Miele",
+     "model": "G 4720 SCU ",
+     "productionYear": 2016,
+     "wattPerCycle": 790,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Miele",
+     "model": "G 6820 SC",
+     "productionYear": 2017,
+     "wattPerCycle": 675,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Miele",
+     "model": "PG 8130 U",
+     "productionYear": 2018,
+     "wattPerCycle": 940,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Miele",
+     "model": "G 5210 i",
+     "productionYear": 2020,
+     "wattPerCycle": 730,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Miele",
+     "model": "G 7025 SCi XXL",
+     "productionYear": 2021,
+     "wattPerCycle": 640,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Miele",
+     "model": "G 7200 SCi",
+     "productionYear": 2021,
+     "wattPerCycle": 540,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Neff",
+     "model": "N70 S147EAS36E",
+     "productionYear": 2020,
+     "wattPerCycle": 740,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Neff",
+     "model": "N70 S897ZM800E",
+     "productionYear": 2022,
+     "wattPerCycle": 590,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Neff",
+     "model": "N70 S857YMX03E",
+     "productionYear": 2022,
+     "wattPerCycle": 510,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "PKM",
+     "model": "DW12A++7",
+     "productionYear": 2014,
+     "wattPerCycle": 920,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Samsung",
+     "model": "DW60M6050US",
+     "productionYear": 2017,
+     "wattPerCycle": 950,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Samsung",
+     "model": "DW60M6050BB",
+     "productionYear": 2017,
+     "wattPerCycle": 950,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Samsung",
+     "model": "DW60M6040BB",
+     "productionYear": 2018,
+     "wattPerCycle": 940,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Siemens",
+     "model": "iQ700 SN478S06TE",
+     "productionYear": 2014,
+     "wattPerCycle": 750,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Siemens",
+     "model": "iQ100 SN614X00AE",
+     "productionYear": 2016,
+     "wattPerCycle": 1020,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Siemens",
+     "model": "iQ500 SR58M561DE",
+     "productionYear": 2016,
+     "wattPerCycle": 970,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Siemens",
+     "model": "iQ100 SX614X00AE",
+     "productionYear": 2016,
+     "wattPerCycle": 1020,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Siemens",
+     "model": "iQ300 SR63EX28KE",
+     "productionYear": 2020,
+     "wattPerCycle": 630,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Siemens",
+     "model": "iQ300 SP63HX64KE",
+     "productionYear": 2021,
+     "wattPerCycle": 700,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Siemens",
+     "model": "iQ500 SN65TX04CE",
+     "productionYear": 2022,
+     "wattPerCycle": 540,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Siemens",
+     "model": "iQ700 SX87YX03CE",
+     "productionYear": 2021,
+     "wattPerCycle": 650,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Smeg",
+     "model": "STA6539L3",
+     "productionYear": 2016,
+     "wattPerCycle": 830,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Gorenje",
+     "model": "GV561D10",
+     "productionYear": 2020,
+     "wattPerCycle": 720,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Gorenje",
+     "model": "GI62040X",
+     "productionYear": 2020,
+     "wattPerCycle": 930,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Gorenje",
+     "model": "GS520E15W",
+     "productionYear": 2022,
+     "wattPerCycle": 700,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Gorenje",
+     "model": "GI520E15X",
+     "productionYear": 2022,
+     "wattPerCycle": 700,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Grundig",
+     "model": "GSF 41825 X",
+     "productionYear": 2019,
+     "wattPerCycle": 810,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Grundig",
+     "model": "GNUP4620XC",
+     "productionYear": 2022,
+     "wattPerCycle": 660,
+     "widthInCentimeter": 60,
+     "description": "",
+     "useInStatistics": true
+  },
+  {
+     "manufacturer": "Zanussi",
+     "model": "ZSLN1211",
+     "productionYear": 2021,
+     "wattPerCycle": 780,
+     "widthInCentimeter": 45,
+     "description": "",
+     "useInStatistics": true
+  }
+]
