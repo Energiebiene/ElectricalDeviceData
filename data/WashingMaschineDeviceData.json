@@ -1,11 +1,61 @@
 [
   {
+    "gtin": "7332543233274",
+    "manufacturer": "AEG",
+    "model": "L76685FL",
+    "productionYear": 2013,
+    "wattPerCycle": 768,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543573011",
+    "manufacturer": "AEG",
+    "model": "L6FB67400",
+    "productionYear": 2017,
+    "wattPerCycle": 680,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543592869",
+    "manufacturer": "AEG",
+    "model": "L7TE74265",
+    "productionYear": 2018,
+    "wattPerCycle": 740,
+    "capacity": 6,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543590049",
+    "manufacturer": "AEG",
+    "model": "L7TE74275",
+    "productionYear": 2018,
+    "wattPerCycle": 780,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "7332543798407",
     "manufacturer": "AEG",
     "model": "L8FED70690",
     "productionYear": 2021,
     "wattPerCycle": 490,
     "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543777372",
+    "manufacturer": "AEG",
+    "model": "L5CB31330",
+    "productionYear": 2021,
+    "wattPerCycle": 630,
+    "capacity": 3,
     "description": "",
     "useInStatistics": true
   },
@@ -50,12 +100,32 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8690842362088",
+    "manufacturer": "Beko",
+    "model": "WMB51032PTE",
+    "productionYear": 2012,
+    "wattPerCycle": 664,
+    "capacity": 5,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "8690842056369",
     "manufacturer": "Beko",
     "model": "WYA81643LE",
     "productionYear": 2016,
     "wattPerCycle": 620,
     "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8690842162015",
+    "manufacturer": "Beko",
+    "model": "WML91433NP",
+    "productionYear": 2018,
+    "wattPerCycle": 982,
+    "capacity": 9,
     "description": "",
     "useInStatistics": true
   },
@@ -80,11 +150,51 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242002472379",
+    "manufacturer": "Bosch",
+    "model": "WAA28222",
+    "productionYear": 2008,
+    "wattPerCycle": 882,
+    "capacity": 5,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242002472393",
+    "manufacturer": "Bosch",
+    "model": "WAA24162",
+    "productionYear": 2008,
+    "wattPerCycle": 814,
+    "capacity": 5,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "4242002625638",
     "manufacturer": "Bosch",
     "model": "WAS28443",
     "productionYear": 2011,
     "wattPerCycle": 859,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242002916408",
+    "manufacturer": "Bosch",
+    "model": "WAW28570",
+    "productionYear": 2015,
+    "wattPerCycle": 891,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005053551",
+    "manufacturer": "Bosch",
+    "model": "WUQ28490",
+    "productionYear": 2017,
+    "wattPerCycle": 614,
     "capacity": 8,
     "description": "",
     "useInStatistics": true
@@ -140,12 +250,72 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8059019021447",
+    "manufacturer": "Candy",
+    "model": "AQUA 1142DE/2-S",
+    "productionYear": 2022,
+    "wattPerCycle": 690,
+    "capacity": 4,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "7350115976879",
     "manufacturer": "Electrolux",
     "model": "myPro WE170V",
     "productionYear": 2016,
     "wattPerCycle": 827,
     "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838942019517",
+    "manufacturer": "Gorenje",
+    "model": "W8564P",
+    "productionYear": 2014,
+    "wattPerCycle": 755,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838942764905",
+    "manufacturer": "Gorenje",
+    "model": "W9865E",
+    "productionYear": 2014,
+    "wattPerCycle": 773,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838942010019",
+    "manufacturer": "Gorenje",
+    "model": "W5523/S",
+    "productionYear": 2015,
+    "wattPerCycle": 600,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838782079399",
+    "manufacturer": "Gorenje",
+    "model": "WS168LNST",
+    "productionYear": 2018,
+    "wattPerCycle": 580,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838782141836",
+    "manufacturer": "Gorenje",
+    "model": "WE64S3P",
+    "productionYear": 2019,
+    "wattPerCycle": 650,
+    "capacity": 6,
     "description": "",
     "useInStatistics": true
   },
@@ -170,6 +340,16 @@
     "useInStatistics": true
   },
   {
+    "gtin": "6921081586709",
+    "manufacturer": "Haier",
+    "model": "HW70-BP14636N",
+    "productionYear": 2017,
+    "wattPerCycle": 450,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "6921081587515",
     "manufacturer": "Haier",
     "model": "HW80-B16636N",
@@ -180,9 +360,29 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8808992398875",
+    "manufacturer": "LG",
+    "model": "F1480FD",
+    "productionYear": 2012,
+    "wattPerCycle": 973,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "8806091122933",
     "manufacturer": "LG",
     "model": "F6W105A",
+    "productionYear": 2021,
+    "wattPerCycle": 530,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806091066176",
+    "manufacturer": "LG",
+    "model": "F4WV710P1E",
     "productionYear": 2021,
     "wattPerCycle": 530,
     "capacity": 10,
@@ -200,9 +400,59 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002515487860",
+    "manufacturer": "Miele",
+    "model": "WKB130",
+    "productionYear": 2014,
+    "wattPerCycle": 709,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4002515558850",
+    "manufacturer": "Miele",
+    "model": "WMV960",
+    "productionYear": 2015,
+    "wattPerCycle": 591,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4002515812846",
+    "manufacturer": "Miele",
+    "model": "WDD030",
+    "productionYear": 2016,
+    "wattPerCycle": 805,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4002516024446",
+    "manufacturer": "Miele",
+    "model": "WWR880",
+    "productionYear": 2018,
+    "wattPerCycle": 490,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "4002516217053",
     "manufacturer": "Miele",
     "model": "WCI870",
+    "productionYear": 2019,
+    "wattPerCycle": 490,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4002516237730",
+    "manufacturer": "Miele",
+    "model": "WWG360",
     "productionYear": 2019,
     "wattPerCycle": 490,
     "capacity": 9,
@@ -270,6 +520,66 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002516352297",
+    "manufacturer": "Panasonic",
+    "model": "NA-140VG3",
+    "productionYear": 2011,
+    "wattPerCycle": 909,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806071980805",
+    "manufacturer": "Samsung",
+    "model": "WF71184ZBD",
+    "productionYear": 2013,
+    "wattPerCycle": 1164,
+    "capacity": 11,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806085771932",
+    "manufacturer": "Samsung",
+    "model": "WF12F9E6P4W",
+    "productionYear": 2013,
+    "wattPerCycle": 900,
+    "capacity": 12,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806086021104",
+    "manufacturer": "Samsung",
+    "model": "WW10H9600EW",
+    "productionYear": 2014,
+    "wattPerCycle": 541,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806088752228",
+    "manufacturer": "Samsung",
+    "model": "WW80J5435DW",
+    "productionYear": 2017,
+    "wattPerCycle": 527,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8801643158538",
+    "manufacturer": "Samsung",
+    "model": "WW91M760NOA",
+    "productionYear": 2018,
+    "wattPerCycle": 591,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "8806090610189",
     "manufacturer": "Samsung",
     "model": "WW91TA049AE",
@@ -295,6 +605,35 @@
     "model": "WW80T654ALX",
     "productionYear": 2020,
     "wattPerCycle": 550,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "manufacturer": "Siemens",
+    "model": "WM14A163",
+    "productionYear": 2011,
+    "wattPerCycle": 814,
+    "capacity": 5,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003725283",
+    "manufacturer": "Siemens",
+    "model": "iQ800 WM6YH840",
+    "productionYear": 2015,
+    "wattPerCycle": 623,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003865736",
+    "manufacturer": "Siemens",
+    "model": "iQ500 WM14G492",
+    "productionYear": 2019,
+    "wattPerCycle": 620,
     "capacity": 8,
     "description": "",
     "useInStatistics": true
@@ -356,6 +695,16 @@
     "productionYear": 2022,
     "wattPerCycle": 480,
     "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8003437728921",
+    "manufacturer": "Whirlpool",
+    "model": "FWF81683WE",
+    "productionYear": 2018,
+    "wattPerCycle": 891,
+    "capacity": 8,
     "description": "",
     "useInStatistics": true
   }

@@ -60,6 +60,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8690842398032",
     "manufacturer": "Beko",
     "model": "CF200WN",
     "productionYear": 2020,
@@ -69,15 +70,17 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4004470725704",
     "manufacturer": "Bomann",
     "model": "GT 257.1",
     "productionYear": 2010,
-    "wattPerDay": 474,
+    "wattPerDay": 476,
     "capacity": 100,
     "description": "",
     "useInStatistics": true
   },
   {
+    "gtin": "4004470735703",
     "manufacturer": "Bomann",
     "model": "GT 357",
     "productionYear": 2015,
@@ -87,6 +90,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4004470735703",
     "manufacturer": "Bomann",
     "model": "GT 7337",
     "productionYear": 2021,
@@ -96,6 +100,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242002480848",
     "manufacturer": "Bosch",
     "model": "GTM20A00",
     "productionYear": 2008,
@@ -105,17 +110,9 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016572016376",
     "manufacturer": "Exquisit",
-    "model": "GT 111-5++",
-    "productionYear": 2014,
-    "wattPerDay": 364,
-    "capacity": 98,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Exquisit",
-    "model": "GT 111-5A+",
+    "model": "GT 111-5 A+",
     "productionYear": 2014,
     "wattPerDay": 465,
     "capacity": 98,
@@ -123,6 +120,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016572408348",
     "manufacturer": "Exquisit",
     "model": "GT100-010F",
     "productionYear": 2021,
@@ -132,6 +130,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016572408379",
     "manufacturer": "Exquisit",
     "model": "GT100-010E",
     "productionYear": 2021,
@@ -141,6 +140,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016572408409",
     "manufacturer": "Exquisit",
     "model": "GT150-010F",
     "productionYear": 2021,
@@ -150,6 +150,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016572408416",
     "manufacturer": "Exquisit",
     "model": "GT150-E-040E",
     "productionYear": 2021,
@@ -159,6 +160,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016572408478",
     "manufacturer": "Exquisit",
     "model": "GT200-030D",
     "productionYear": 2021,
@@ -168,6 +170,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016572408454",
     "manufacturer": "Exquisit",
     "model": "GT200-HE-040E",
     "productionYear": 2021,
@@ -177,6 +180,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016572412932",
     "manufacturer": "Exquisit",
     "model": "GT100-330E",
     "productionYear": 2022,
@@ -195,6 +199,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "9550000028142",
     "manufacturer": "Liebherr",
     "model": "EFE 1152-21",
     "productionYear": 2012,
@@ -204,6 +209,7 @@
     "useInStatistics": false
   },
   {
+    "gtin": "9120095791483",
     "manufacturer": "Nabo",
     "model": "GT 1010",
     "productionYear": 2020,
@@ -213,6 +219,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "9120095791360",
     "manufacturer": "Nabo",
     "model": "GT 2050",
     "productionYear": 2020,
@@ -222,6 +229,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "9120095794477",
     "manufacturer": "Nabo",
     "model": "GT 2051",
     "productionYear": 2021,
@@ -232,10 +240,20 @@
   },
   {
     "manufacturer": "Siemens",
-    "model": "GT 26S05",
+    "model": "GT26S05/02",
     "productionYear": 2000,
     "wattPerDay": 800,
     "capacity": 239,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003306154",
+    "manufacturer": "Siemens",
+    "model": "GT30K920",
+    "productionYear": 2003,
+    "wattPerDay": 671,
+    "capacity": 284,
     "description": "",
     "useInStatistics": true
   },
