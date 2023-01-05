@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/Energiebiene/ElectricalDeviceData.git"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/Energiebiene"
+  },
   "keywords": [],
   "author": "Energiebiene.com",
   "license": "MIT",
