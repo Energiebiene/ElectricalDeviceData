@@ -1,0 +1,20 @@
+{
+  "name": "ElectricalDeviceData",
+  "version": "1.0.0",
+  "description": "This package contains information about electrical devices",
+  "assets": "data"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Energiebiene/ElectricalDeviceData.git"
+  },
+  "keywords": [],
+  "author": "Energiebiene.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Energiebiene/ElectricalDeviceData/issues"
+  },
+  "homepage": "https://github.com/Energiebiene/ElectricalDeviceData"
+}
