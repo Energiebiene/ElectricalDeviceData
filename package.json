@@ -1,5 +1,5 @@
 {
-  "name": "energiebiene/electrical-device-data",
+  "name": "@energiebiene/electrical-device-data",
   "version": "1.0.0",
   "description": "This package contains information about electrical devices",
   "assets": "data",
