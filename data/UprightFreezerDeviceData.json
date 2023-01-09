@@ -180,6 +180,16 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4061462664410",
+    "manufacturer": "Nordfrost",
+    "model": "MD 37125 ",
+    "productionYear": 2022,
+    "wattPerDay": 405,
+    "capacity": 34,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "manufacturer": "Siemens",
     "model": "iQ500 GS58NAW30",
     "productionYear": 2012,

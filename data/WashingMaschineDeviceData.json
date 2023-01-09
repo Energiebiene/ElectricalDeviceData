@@ -1,5 +1,14 @@
 [
   {
+    "manufacturer": "AEG",
+    "model": "L54849",
+    "productionYear": 2007,
+    "wattPerCycle": 850,
+    "capacity": 6,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "7332543233274",
     "manufacturer": "AEG",
     "model": "L76685FL",

@@ -280,6 +280,15 @@
   },
   {
     "manufacturer": "Miele",
+    "model": "G 6660 SCVi ",
+    "productionYear": 2016,
+    "wattPerCycle": 761,
+    "widthInCentimeter": 60,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "manufacturer": "Miele",
     "model": "G 4720 SCU ",
     "productionYear": 2016,
     "wattPerCycle": 790,

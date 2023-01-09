@@ -1,6 +1,6 @@
 {
   "name": "@energiebiene/electrical-device-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package contains information about electrical devices",
   "assets": "data",
   "scripts": {
