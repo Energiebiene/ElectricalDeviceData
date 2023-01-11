@@ -9,7 +9,17 @@
     "useInStatistics": true
   },
   {
-    "gtin": "7332543233274",
+    "gtin": "7332543123414",
+    "manufacturer": "AEG",
+    "model": "L98685FL",
+    "productionYear": 2012,
+    "wattPerCycle": 736,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543123414",
     "manufacturer": "AEG",
     "model": "L76685FL",
     "productionYear": 2013,
@@ -215,6 +225,26 @@
     "productionYear": 2020,
     "wattPerCycle": 690,
     "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005240272",
+    "manufacturer": "Bosch",
+    "model": "WUU28T40",
+    "productionYear": 2020,
+    "wattPerCycle": 616,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005239498",
+    "manufacturer": "Bosch",
+    "model": "WUU28T20",
+    "productionYear": 2020,
+    "wattPerCycle": 624,
+    "capacity": 8,
     "description": "",
     "useInStatistics": true
   },
