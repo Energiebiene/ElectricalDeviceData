@@ -668,6 +668,16 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242003814758",
+    "manufacturer": "Siemens",
+    "model": "iQ300 WM14N121",
+    "productionYear": 2017,
+    "wattPerCycle": 714,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "4242003865736",
     "manufacturer": "Siemens",
     "model": "iQ500 WM14G492",
