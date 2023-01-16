@@ -1,5 +1,206 @@
 [
   {
+    "gtin": "7332543178605",
+    "manufacturer": "AEG",
+    "model": "A42700GNW0",
+    "productionYear": 2012,
+    "wattPerDay": 838,
+    "capacity": 229,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4011577804829",
+    "manufacturer": "Bauknecht",
+    "model": "GKN ECO 18 A+++ XL",
+    "productionYear": 2015,
+    "wattPerDay": 737,
+    "capacity": 342,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8690842368394",
+    "manufacturer": "Beko",
+    "model": "NFE 145",
+    "productionYear": 2011,
+    "wattPerDay": 663,
+    "capacity": 157,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8690842326639",
+    "manufacturer": "Beko",
+    "model": "FSE1073N",
+    "productionYear": 2020,
+    "wattPerDay": 573,
+    "capacity": 95,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8690842374104",
+    "manufacturer": "Beko",
+    "model": "RFNE200E30WN",
+    "productionYear": 2020,
+    "wattPerDay": 729,
+    "capacity": 177,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4004470318104",
+    "manufacturer": "Bomann",
+    "model": "GS 3181",
+    "productionYear": 2016,
+    "wattPerDay": 485,
+    "capacity": 160,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242002679181",
+    "manufacturer": "Bosch",
+    "model": "Serie 6 GSN58AW30",
+    "productionYear": 2012,
+    "wattPerDay": 825,
+    "capacity": 360,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242002712253",
+    "manufacturer": "Bosch",
+    "model": "Serie 6 GSN51EW30",
+    "productionYear": 2014,
+    "wattPerDay": 715,
+    "capacity": 286,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005244492",
+    "manufacturer": "Bosch",
+    "model": "Serie 4 GSN36VBFP",
+    "productionYear": 2020,
+    "wattPerDay": 805,
+    "capacity": 242,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005196609",
+    "manufacturer": "Bosch",
+    "model": "Serie 6 GSN54AWDV",
+    "productionYear": 2020,
+    "wattPerDay": 580,
+    "capacity": 328,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005152100",
+    "manufacturer": "Bosch",
+    "model": "Serie 6 GIN41ACE0",
+    "productionYear": 2020,
+    "wattPerDay": 564,
+    "capacity": 130,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005191543",
+    "manufacturer": "Bosch",
+    "model": "GSN58UWDP",
+    "productionYear": 2022,
+    "wattPerDay": 608,
+    "capacity": 366,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "5412144500011",
+    "manufacturer": "Exquisit",
+    "model": "GS300",
+    "productionYear": 2009,
+    "wattPerDay": 868,
+    "capacity": 240,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4016572407839",
+    "manufacturer": "Exquisit",
+    "model": "GB60-150E",
+    "productionYear": 2021,
+    "wattPerDay": 411,
+    "capacity": 42,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4016572408096",
+    "manufacturer": "Exquisit",
+    "model": "GS235-H-040E",
+    "productionYear": 2021,
+    "wattPerDay": 515,
+    "capacity": 160,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4016572408188",
+    "manufacturer": "Exquisit",
+    "model": "GS184-H-100E",
+    "productionYear": 2021,
+    "wattPerDay": 537,
+    "capacity": 184,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4016572408027",
+    "manufacturer": "Exquisit",
+    "model": "GS80-030E",
+    "productionYear": 2022,
+    "wattPerDay": 452,
+    "capacity": 86,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838942862106",
+    "manufacturer": "Gorenje",
+    "model": "FIU6092AW",
+    "productionYear": 2012,
+    "wattPerDay": 474,
+    "capacity": 86,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838782407741",
+    "manufacturer": "Gorenje",
+    "model": "F492PW",
+    "productionYear": 2020,
+    "wattPerDay": 452,
+    "capacity": 86,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838782408021",
+    "manufacturer": "Gorenje",
+    "model": "F4141PW",
+    "productionYear": 2020,
+    "wattPerDay": 647,
+    "capacity": 165,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "9005382217634",
     "manufacturer": "Liebherr",
     "model": "GG 4010-20",
     "productionYear": 2011,
@@ -9,8 +210,9 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016803149460",
     "manufacturer": "Liebherr",
-    "model": "GP 3513 Comfort",
+    "model": "GP 3513",
     "productionYear": 2012,
     "wattPerDay": 482,
     "capacity": 350,
@@ -18,6 +220,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016803163541",
     "manufacturer": "Liebherr",
     "model": "GNP 1913-20",
     "productionYear": 2013,
@@ -27,6 +230,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016803030195",
     "manufacturer": "Liebherr",
     "model": "GP 2033-20",
     "productionYear": 2014,
@@ -36,6 +240,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016803088233",
     "manufacturer": "Liebherr",
     "model": "FNb 5056-20",
     "productionYear": 2022,
@@ -45,6 +250,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016803083535",
     "manufacturer": "Liebherr",
     "model": "FNc 4675-20",
     "productionYear": 2022,
@@ -54,6 +260,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016803056270",
     "manufacturer": "Liebherr",
     "model": "FNd 4254-20",
     "productionYear": 2022,
@@ -63,6 +270,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016803059554",
     "manufacturer": "Liebherr",
     "model": "G 1213-21",
     "productionYear": 2021,
@@ -72,6 +280,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016803059547",
     "manufacturer": "Liebherr",
     "model": "GX 823-21",
     "productionYear": 2021,
@@ -81,6 +290,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016803056324",
     "manufacturer": "Liebherr",
     "model": "FNc 5277-20",
     "productionYear": 2022,
@@ -90,6 +300,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002515108994",
     "manufacturer": "Miele",
     "model": "F 12016 S-2",
     "productionYear": 2008,
@@ -99,6 +310,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002514806075",
     "manufacturer": "Miele",
     "model": "FN 12821 S",
     "productionYear": 2012,
@@ -108,6 +320,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002515283363",
     "manufacturer": "Miele",
     "model": "F 12011 S-2",
     "productionYear": 2014,
@@ -117,6 +330,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002515799000",
     "manufacturer": "Miele",
     "model": "FN 27273 ws",
     "productionYear": 2017,
@@ -126,6 +340,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002515952597",
     "manufacturer": "Miele",
     "model": "F 31202 Ui",
     "productionYear": 2018,
@@ -135,6 +350,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002516517733",
     "manufacturer": "Miele",
     "model": "FN 4844 C",
     "productionYear": 2022,
@@ -144,6 +360,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002516572084",
     "manufacturer": "Miele",
     "model": "FN 4372 E",
     "productionYear": 2022,
@@ -153,6 +370,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002516516934",
     "manufacturer": "Miele",
     "model": "FN 4312 E",
     "productionYear": 2022,
@@ -162,6 +380,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002516379416",
     "manufacturer": "Miele",
     "model": "FNS 7140 E",
     "productionYear": 2022,
@@ -171,11 +390,21 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002516379430",
     "manufacturer": "Miele",
     "model": "FNS 7470 D",
     "productionYear": 2022,
     "wattPerDay": 474,
     "capacity": 156,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "manufacturer": "Neff",
+    "model": "N50 GI1113FE0",
+    "productionYear": 2020,
+    "wattPerDay": 458,
+    "capacity": 72,
     "description": "",
     "useInStatistics": true
   },
@@ -190,249 +419,7 @@
     "useInStatistics": true
   },
   {
-    "manufacturer": "Siemens",
-    "model": "iQ500 GS58NAW30",
-    "productionYear": 2012,
-    "wattPerDay": 825,
-    "capacity": 360,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Siemens",
-    "model": "GS58NAW40",
-    "productionYear": 2012,
-    "wattPerDay": 550,
-    "capacity": 360,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Siemens",
-    "model": "iQ500 GS58NAWDV",
-    "productionYear": 2019,
-    "wattPerDay": 608,
-    "capacity": 366,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Siemens",
-    "model": "iQ500 GI11VADC0",
-    "productionYear": 2020,
-    "wattPerDay": 288,
-    "capacity": 70,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Siemens",
-    "model": "iQ500 GS36NAWEP",
-    "productionYear": 2020,
-    "wattPerDay": 641,
-    "capacity": 242,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Siemens",
-    "model": "iQ300 GS36NVWFP",
-    "productionYear": 2020,
-    "wattPerDay": 805,
-    "capacity": 242,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Siemens",
-    "model": "iQ500 GS58NDWDP",
-    "productionYear": 2020,
-    "wattPerDay": 608,
-    "capacity": 366,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Siemens",
-    "model": "MKG21VADE0",
-    "productionYear": 2021,
-    "wattPerDay": 482,
-    "capacity": 96,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Gorenje",
-    "model": "FIU6092AW",
-    "productionYear": 2012,
-    "wattPerDay": 474,
-    "capacity": 86,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Gorenje",
-    "model": "F492PW",
-    "productionYear": 2020,
-    "wattPerDay": 452,
-    "capacity": 86,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Gorenje",
-    "model": "F4141PW",
-    "productionYear": 2020,
-    "wattPerDay": 647,
-    "capacity": 165,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Bomann",
-    "model": "GS 3181",
-    "productionYear": 2016,
-    "wattPerDay": 485,
-    "capacity": 160,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Bosch",
-    "model": "Serie 6 GSN58AW30",
-    "productionYear": 2012,
-    "wattPerDay": 825,
-    "capacity": 360,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Bosch",
-    "model": "Serie 6 GSN51EW30",
-    "productionYear": 2014,
-    "wattPerDay": 715,
-    "capacity": 286,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Bosch",
-    "model": "Serie 4 GSN36VBFP",
-    "productionYear": 2020,
-    "wattPerDay": 805,
-    "capacity": 242,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Bosch",
-    "model": "Serie 6 GSN54AWDV",
-    "productionYear": 2020,
-    "wattPerDay": 580,
-    "capacity": 328,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Bosch",
-    "model": "Serie 6 GIN41ACE0",
-    "productionYear": 2020,
-    "wattPerDay": 564,
-    "capacity": 130,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Bosch",
-    "model": "GSN58UWDP",
-    "productionYear": 2022,
-    "wattPerDay": 608,
-    "capacity": 366,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Beko",
-    "model": "NFE145",
-    "productionYear": 2011,
-    "wattPerDay": 663,
-    "capacity": 157,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Beko",
-    "model": "FSE1073N",
-    "productionYear": 2020,
-    "wattPerDay": 573,
-    "capacity": 95,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Beko",
-    "model": "RFNE200E30WN",
-    "productionYear": 2020,
-    "wattPerDay": 729,
-    "capacity": 177,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Exquisit",
-    "model": "GS300",
-    "productionYear": 2009,
-    "wattPerDay": 868,
-    "capacity": 240,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Exquisit",
-    "model": "GB60-150E",
-    "productionYear": 2021,
-    "wattPerDay": 411,
-    "capacity": 42,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Exquisit",
-    "model": "GS235-H-040E",
-    "productionYear": 2021,
-    "wattPerDay": 515,
-    "capacity": 160,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Exquisit",
-    "model": "GS184-H-100E",
-    "productionYear": 2021,
-    "wattPerDay": 537,
-    "capacity": 184,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Exquisit",
-    "model": "GS80-030E",
-    "productionYear": 2022,
-    "wattPerDay": 452,
-    "capacity": 86,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Neff",
-    "model": "N50 GI1113FE0",
-    "productionYear": 2020,
-    "wattPerDay": 458,
-    "capacity": 72,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
+    "gtin": "8806088603032",
     "manufacturer": "Samsung",
     "model": "RZ32M7005WW",
     "productionYear": 2017,
@@ -442,20 +429,82 @@
     "useInStatistics": true
   },
   {
-    "manufacturer": "Bauknecht",
-    "model": "GKN ECO 18 A+++ XL",
-    "productionYear": 2015,
-    "wattPerDay": 737,
-    "capacity": 342,
+    "gtin": "4242003596876",
+    "manufacturer": "Siemens",
+    "model": "iQ500 GS58NAW30",
+    "productionYear": 2012,
+    "wattPerDay": 825,
+    "capacity": 360,
     "description": "",
     "useInStatistics": true
   },
   {
-    "manufacturer": "AEG",
-    "model": "A42700GNW0",
+    "gtin": "4242003587478",
+    "manufacturer": "Siemens",
+    "model": "GS58NAW40",
     "productionYear": 2012,
-    "wattPerDay": 838,
-    "capacity": 229,
+    "wattPerDay": 550,
+    "capacity": 360,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003866481",
+    "manufacturer": "Siemens",
+    "model": "iQ500 GS58NAWDV",
+    "productionYear": 2019,
+    "wattPerDay": 608,
+    "capacity": 366,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003840306",
+    "manufacturer": "Siemens",
+    "model": "iQ500 GI11VADC0",
+    "productionYear": 2020,
+    "wattPerDay": 288,
+    "capacity": 70,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003877654",
+    "manufacturer": "Siemens",
+    "model": "iQ500 GS36NAWEP",
+    "productionYear": 2020,
+    "wattPerDay": 641,
+    "capacity": 242,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003868065",
+    "manufacturer": "Siemens",
+    "model": "iQ300 GS36NVWFP",
+    "productionYear": 2020,
+    "wattPerDay": 805,
+    "capacity": 242,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003866955",
+    "manufacturer": "Siemens",
+    "model": "iQ500 GS58NDWDP",
+    "productionYear": 2020,
+    "wattPerDay": 608,
+    "capacity": 366,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003892268",
+    "manufacturer": "Siemens",
+    "model": "MKG21VADE0",
+    "productionYear": 2021,
+    "wattPerDay": 482,
+    "capacity": 96,
     "description": "",
     "useInStatistics": true
   }
