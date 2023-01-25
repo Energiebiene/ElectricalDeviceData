@@ -1,23 +1,6 @@
 [
   {
-    "manufacturer": "Amica",
-    "model": "GSP 14745 W",
-    "releaseYear": 2018,
-    "wattPerCycle": 920,
-    "widthInCentimeter": 60,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Amica",
-    "model": "GSP 14746 W",
-    "releaseYear": 2018,
-    "wattPerCycle": 700,
-    "widthInCentimeter": 45,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
+    "gtin": "7332543321230",
     "manufacturer": "AEG",
     "model": "F66600IM0P",
     "releaseYear": 2014,
@@ -27,6 +10,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "7332543521128",
     "manufacturer": "AEG",
     "model": "FEE63600PM",
     "releaseYear": 2016,
@@ -36,15 +20,7 @@
     "useInStatistics": true
   },
   {
-    "manufacturer": "AEG",
-    "model": "EGSP 14895 E",
-    "releaseYear": 2017,
-    "wattPerCycle": 760,
-    "widthInCentimeter": 45,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
+    "gtin": "7332543749423",
     "manufacturer": "AEG",
     "model": "FSB52637P",
     "releaseYear": 2020,
@@ -54,6 +30,37 @@
     "useInStatistics": true
   },
   {
+    "gtin": "5906006003692",
+    "manufacturer": "Amica",
+    "model": "EGSP 14895 E",
+    "releaseYear": 2017,
+    "wattPerCycle": 760,
+    "widthInCentimeter": 45,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4040729147453",
+    "manufacturer": "Amica",
+    "model": "GSP 14745 W",
+    "releaseYear": 2018,
+    "wattPerCycle": 920,
+    "widthInCentimeter": 60,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4040729147460",
+    "manufacturer": "Amica",
+    "model": "GSP 14746 W",
+    "releaseYear": 2018,
+    "wattPerCycle": 700,
+    "widthInCentimeter": 45,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4011577851243",
     "manufacturer": "Bauknecht",
     "model": "BFE 2B19",
     "releaseYear": 2016,
@@ -63,6 +70,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8690842148156",
     "manufacturer": "Bauknecht",
     "model": "DSN28431X",
     "releaseYear": 2017,
@@ -72,6 +80,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4011577855067",
     "manufacturer": "Bauknecht",
     "model": "BSBO 3O23 PF X",
     "releaseYear": 2019,
@@ -81,6 +90,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4011577859607",
     "manufacturer": "Bauknecht",
     "model": "IBBC 3C33 X",
     "releaseYear": 2021,
@@ -90,6 +100,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4011577860054",
     "manufacturer": "Bauknecht",
     "model": "BSFO 3O21 PF",
     "releaseYear": 2021,
@@ -99,6 +110,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8690842163579",
     "manufacturer": "Beko",
     "model": "DSN6634FX2",
     "releaseYear": 2018,
@@ -108,6 +120,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8690842186622",
     "manufacturer": "Beko",
     "model": "DIS25011",
     "releaseYear": 2018,
@@ -117,6 +130,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8690842186042",
     "manufacturer": "Beko",
     "model": "DSN04310X",
     "releaseYear": 2018,
@@ -126,6 +140,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8690842391774",
     "manufacturer": "Beko",
     "model": "DIS35023",
     "releaseYear": 2021,
@@ -135,6 +150,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242002828961",
     "manufacturer": "Bosch",
     "model": "Serie 8 SMU88TS06E",
     "releaseYear": 2015,
@@ -144,6 +160,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242002958866",
     "manufacturer": "Bosch",
     "model": "Serie 2 SBV24AX00E",
     "releaseYear": 2016,
@@ -153,6 +170,7 @@
     "useInStatistics": false
   },
   {
+    "gtin": "4242002958873",
     "manufacturer": "Bosch",
     "model": "Serie 2 SMV24AX00E",
     "releaseYear": 2016,
@@ -162,6 +180,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242002959900",
     "manufacturer": "Bosch",
     "model": "Serie 6 SMI68TS06E",
     "releaseYear": 2016,
@@ -171,6 +190,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242002980164",
     "manufacturer": "Bosch",
     "model": "Serie 4 SMI46IS04D",
     "releaseYear": 2017,
@@ -180,6 +200,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242005060177",
     "manufacturer": "Bosch",
     "model": "Serie 6 SPU66PS00E",
     "releaseYear": 2017,
@@ -189,6 +210,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242005130825",
     "manufacturer": "Bosch",
     "model": "Serie 6 SME68TX26E",
     "releaseYear": 2018,
@@ -198,6 +220,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242005070756",
     "manufacturer": "Bosch",
     "model": "Serie 4 SPS46MI01E",
     "releaseYear": 2019,
@@ -207,6 +230,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242005192823",
     "manufacturer": "Bosch",
     "model": "Serie 4 SMI4HAS48E",
     "releaseYear": 2020,
@@ -216,6 +240,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242005286997",
     "manufacturer": "Bosch",
     "model": "Serie 6 SPV6YMX11E",
     "releaseYear": 2021,
@@ -225,6 +250,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242005215317",
     "manufacturer": "Bosch",
     "model": "Serie 2 SPS2HKI57E",
     "releaseYear": 2022,
@@ -234,6 +260,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242004186595",
     "manufacturer": "Constructa",
     "model": "CG3A01J5",
     "releaseYear": 2015,
@@ -243,6 +270,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242004250661",
     "manufacturer": "Constructa",
     "model": "CP5VX00HKD",
     "releaseYear": 2021,
@@ -252,6 +280,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8690842197345",
     "manufacturer": "Elektra Bregenz",
     "model": "GIVS 54180 X",
     "releaseYear": 2018,
@@ -261,11 +290,72 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4016572410709",
     "manufacturer": "Exquisit",
     "model": "EGSP1009-EB-030E",
     "releaseYear": 2022,
     "wattPerCycle": 700,
     "widthInCentimeter": 45,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838782459856",
+    "manufacturer": "Gorenje",
+    "model": "GV561D10",
+    "releaseYear": 2020,
+    "wattPerCycle": 719,
+    "widthInCentimeter": 45,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838782411342",
+    "manufacturer": "Gorenje",
+    "model": "GI62040X",
+    "releaseYear": 2020,
+    "wattPerCycle": 936,
+    "widthInCentimeter": 60,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838782574450",
+    "manufacturer": "Gorenje",
+    "model": "GS520E15W",
+    "releaseYear": 2022,
+    "wattPerCycle": 700,
+    "widthInCentimeter": 60,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838782574443",
+    "manufacturer": "Gorenje",
+    "model": "GI520E15X",
+    "releaseYear": 2022,
+    "wattPerCycle": 704,
+    "widthInCentimeter": 45,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4013833028482",
+    "manufacturer": "Grundig",
+    "model": "GSF 41825 X",
+    "releaseYear": 2019,
+    "wattPerCycle": 805,
+    "widthInCentimeter": 45,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4013833048855",
+    "manufacturer": "Grundig",
+    "model": "GNUP4620XC",
+    "releaseYear": 2022,
+    "wattPerCycle": 664,
+    "widthInCentimeter": 60,
     "description": "",
     "useInStatistics": true
   },
@@ -481,60 +571,6 @@
     "model": "STA6539L3",
     "releaseYear": 2016,
     "wattPerCycle": 830,
-    "widthInCentimeter": 60,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Gorenje",
-    "model": "GV561D10",
-    "releaseYear": 2020,
-    "wattPerCycle": 719,
-    "widthInCentimeter": 45,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Gorenje",
-    "model": "GI62040X",
-    "releaseYear": 2020,
-    "wattPerCycle": 936,
-    "widthInCentimeter": 60,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Gorenje",
-    "model": "GS520E15W",
-    "releaseYear": 2022,
-    "wattPerCycle": 700,
-    "widthInCentimeter": 60,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Gorenje",
-    "model": "GI520E15X",
-    "releaseYear": 2022,
-    "wattPerCycle": 704,
-    "widthInCentimeter": 45,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Grundig",
-    "model": "GSF 41825 X",
-    "releaseYear": 2019,
-    "wattPerCycle": 805,
-    "widthInCentimeter": 45,
-    "description": "",
-    "useInStatistics": true
-  },
-  {
-    "manufacturer": "Grundig",
-    "model": "GNUP4620XC",
-    "releaseYear": 2022,
-    "wattPerCycle": 664,
     "widthInCentimeter": 60,
     "description": "",
     "useInStatistics": true
