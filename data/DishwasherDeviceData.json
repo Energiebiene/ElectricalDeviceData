@@ -360,8 +360,9 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002515481936",
     "manufacturer": "Miele",
-    "model": "G 6200 SCi ",
+    "model": "G 6200 SCi",
     "releaseYear": 2014,
     "wattPerCycle": 850,
     "widthInCentimeter": 60,
@@ -369,8 +370,9 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002515699423",
     "manufacturer": "Miele",
-    "model": "G 6660 SCVi ",
+    "model": "G 6660 SCVi",
     "releaseYear": 2016,
     "wattPerCycle": 761,
     "widthInCentimeter": 60,
@@ -378,8 +380,9 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002515683323",
     "manufacturer": "Miele",
-    "model": "G 4720 SCU ",
+    "model": "G 4720 SCU",
     "releaseYear": 2016,
     "wattPerCycle": 790,
     "widthInCentimeter": 45,
@@ -387,6 +390,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002515683132",
     "manufacturer": "Miele",
     "model": "G 6820 SC",
     "releaseYear": 2017,
@@ -396,6 +400,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002515788653",
     "manufacturer": "Miele",
     "model": "PG 8130 U",
     "releaseYear": 2018,
@@ -405,6 +410,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002516316107",
     "manufacturer": "Miele",
     "model": "G 5210 i",
     "releaseYear": 2020,
@@ -414,6 +420,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002516468295",
     "manufacturer": "Miele",
     "model": "G 7025 SCi XXL",
     "releaseYear": 2021,
@@ -423,6 +430,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4002516469209",
     "manufacturer": "Miele",
     "model": "G 7200 SCi",
     "releaseYear": 2021,
@@ -432,6 +440,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242004253914",
     "manufacturer": "Neff",
     "model": "N70 S147EAS36E",
     "releaseYear": 2020,
@@ -441,6 +450,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242004251767",
     "manufacturer": "Neff",
     "model": "N70 S897ZM800E",
     "releaseYear": 2022,
@@ -450,6 +460,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242004262596",
     "manufacturer": "Neff",
     "model": "N70 S857YMX03E",
     "releaseYear": 2022,
@@ -459,6 +470,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4030608400182",
     "manufacturer": "PKM",
     "model": "DW12A++7",
     "releaseYear": 2014,
@@ -468,6 +480,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8806088781679",
     "manufacturer": "Samsung",
     "model": "DW60M6050US",
     "releaseYear": 2017,
@@ -477,6 +490,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8806088781563",
     "manufacturer": "Samsung",
     "model": "DW60M6050BB",
     "releaseYear": 2017,
@@ -486,6 +500,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8806088781631",
     "manufacturer": "Samsung",
     "model": "DW60M6040BB",
     "releaseYear": 2018,
@@ -495,6 +510,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242003685044",
     "manufacturer": "Siemens",
     "model": "iQ700 SN478S06TE",
     "releaseYear": 2014,
@@ -504,6 +520,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242003767795",
     "manufacturer": "Siemens",
     "model": "iQ100 SN614X00AE",
     "releaseYear": 2016,
@@ -513,6 +530,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242003737224",
     "manufacturer": "Siemens",
     "model": "iQ500 SR58M561DE",
     "releaseYear": 2016,
@@ -522,6 +540,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242003767818",
     "manufacturer": "Siemens",
     "model": "iQ100 SX614X00AE",
     "releaseYear": 2016,
@@ -531,6 +550,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242003915035",
     "manufacturer": "Siemens",
     "model": "iQ300 SR63EX28KE",
     "releaseYear": 2020,
@@ -549,6 +569,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242003932971",
     "manufacturer": "Siemens",
     "model": "iQ500 SN65TX04CE",
     "releaseYear": 2022,
@@ -558,6 +579,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242003906477",
     "manufacturer": "Siemens",
     "model": "iQ700 SX87YX03CE",
     "releaseYear": 2021,
@@ -567,6 +589,7 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8017709202200",
     "manufacturer": "Smeg",
     "model": "STA6539L3",
     "releaseYear": 2016,
@@ -576,6 +599,7 @@
     "useInStatistics": true
   },
   {
+	  "gtin": "7332543793846",
     "manufacturer": "Zanussi",
     "model": "ZSLN1211",
     "releaseYear": 2021,
