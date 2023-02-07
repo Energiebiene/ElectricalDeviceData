@@ -169,6 +169,16 @@
     "useInStatistics": true
   },
   {
+    "gtin": "8690842511622",
+    "manufacturer": "Beko",
+    "model": "WUV 6511",
+    "releaseYear": 2022,
+    "wattPerCycle": 733,
+    "capacity": 6,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "4242002472379",
     "manufacturer": "Bosch",
     "model": "WAA28222",
@@ -305,6 +315,16 @@
     "releaseYear": 2016,
     "wattPerCycle": 827,
     "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "",
+    "manufacturer": "Elektra Bregenz",
+    "model": "WSP 14705",
+    "releaseYear": 2022,
+    "wattPerCycle": 685,
+    "capacity": 7,
     "description": "",
     "useInStatistics": true
   },
@@ -559,6 +579,16 @@
     "useInStatistics": true
   },
   {
+    "gtin": "9120095792909",
+    "manufacturer": "Nabo",
+    "model": "WM 1471",
+    "releaseYear": 2021,
+    "wattPerCycle": 545,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "4002516352297",
     "manufacturer": "Panasonic",
     "model": "NA-140VG3",
@@ -625,6 +655,16 @@
     "releaseYear": 2021,
     "wattPerCycle": 490,
     "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806090609091",
+    "manufacturer": "Samsung",
+    "model": "WW80TA049AE",
+    "releaseYear": 2021,
+    "wattPerCycle": 550,
+    "capacity": 8,
     "description": "",
     "useInStatistics": true
   },
