@@ -99,6 +99,86 @@
     "useInStatistics": true
   },
   {
+    "gtin": "7332543974665",
+    "manufacturer": "AEG",
+    "model": "LR6F66485",
+    "releaseYear": 2023,
+    "wattPerCycle": 470,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543972043",
+    "manufacturer": "AEG",
+    "model": "LR9W75490",
+    "releaseYear": 2023,
+    "wattPerCycle": 390,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543972920",
+    "manufacturer": "AEG",
+    "model": "LR9W80600",
+    "releaseYear": 2023,
+    "wattPerCycle": 410,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543977727",
+    "manufacturer": "AEG",
+    "model": "LR7E75400",
+    "releaseYear": 2023,
+    "wattPerCycle": 510,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543993796",
+    "manufacturer": "AEG",
+    "model": "LR7EA410FL",
+    "releaseYear": 2023,
+    "wattPerCycle": 510,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543992362",
+    "manufacturer": "AEG",
+    "model": "LR6FA410FL",
+    "releaseYear": 2023,
+    "wattPerCycle": 510,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543977666",
+    "manufacturer": "AEG",
+    "model": "LR8E80600",
+    "releaseYear": 2023,
+    "wattPerCycle": 512,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543972098",
+    "manufacturer": "AEG",
+    "model": "LR8E75490",
+    "releaseYear": 2023,
+    "wattPerCycle": 490,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "4011577857474",
     "manufacturer": "Bauknecht",
     "model": "W Active 711C",
@@ -175,6 +255,16 @@
     "releaseYear": 2022,
     "wattPerCycle": 733,
     "capacity": 6,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8690842544927",
+    "manufacturer": "Beko",
+    "model": "B3WFU59415W2",
+    "releaseYear": 2023,
+    "wattPerCycle": 490,
+    "capacity": 9,
     "description": "",
     "useInStatistics": true
   },
@@ -259,6 +349,16 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242005226443",
+    "manufacturer": "Bosch",
+    "model": "WAN28K20",
+    "releaseYear": 2020,
+    "wattPerCycle": 620,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "4242005309245",
     "manufacturer": "Bosch",
     "model": "WAV28M33",
@@ -285,6 +385,56 @@
     "releaseYear": 2022,
     "wattPerCycle": 460,
     "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005335831",
+    "manufacturer": "Bosch",
+    "model": "WAJ280H2",
+    "releaseYear": 2023,
+    "wattPerCycle": 510,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005335824",
+    "manufacturer": "Bosch",
+    "model": "WAJ280H7",
+    "releaseYear": 2023,
+    "wattPerCycle": 460,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005360628",
+    "manufacturer": "Bosch",
+    "model": "WAN28KH3",
+    "releaseYear": 2023,
+    "wattPerCycle": 510,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005341092",
+    "manufacturer": "Bosch",
+    "model": "WAN28254AT",
+    "releaseYear": 2023,
+    "wattPerCycle": 510,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242005335862",
+    "manufacturer": "Bosch",
+    "model": "WAJ28071",
+    "releaseYear": 2023,
+    "wattPerCycle": 510,
+    "capacity": 7,
     "description": "",
     "useInStatistics": true
   },
@@ -319,7 +469,7 @@
     "useInStatistics": true
   },
   {
-    "gtin": "",
+    "gtin": "8690842420429",
     "manufacturer": "Elektra Bregenz",
     "model": "WSP 14705",
     "releaseYear": 2022,
@@ -399,6 +549,46 @@
     "useInStatistics": true
   },
   {
+    "gtin": "3838782653483",
+    "manufacturer": "Gorenje",
+    "model": "WNEI74SAPS",
+    "releaseYear": 2023,
+    "wattPerCycle": 440,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838782568909",
+    "manufacturer": "Gorenje",
+    "model": "NEI74ADPS",
+    "releaseYear": 2023,
+    "wattPerCycle": 450,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "3838782699290",
+    "manufacturer": "Gorenje",
+    "model": "W2NEI14APS",
+    "releaseYear": 2023,
+    "wattPerCycle": 490,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4013833054320",
+    "manufacturer": "Grundig",
+    "model": "GW5P57410W",
+    "releaseYear": 2023,
+    "wattPerCycle": 440,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "6921081586709",
     "manufacturer": "Haier",
     "model": "HW70-BP14636N",
@@ -415,6 +605,16 @@
     "releaseYear": 2021,
     "wattPerCycle": 470,
     "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "6901101815644",
+    "manufacturer": "Hisense",
+    "model": "WFQA1214EVJM",
+    "releaseYear": 2023,
+    "wattPerCycle": 540,
+    "capacity": 12,
     "description": "",
     "useInStatistics": true
   },
@@ -455,6 +655,56 @@
     "releaseYear": 2021,
     "wattPerCycle": 480,
     "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806091819659",
+    "manufacturer": "LG",
+    "model": "F4WV70X1",
+    "releaseYear": 2023,
+    "wattPerCycle": 530,
+    "capacity": 10.5,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806091821973",
+    "manufacturer": "LG",
+    "model": "F4WV4085",
+    "releaseYear": 2023,
+    "wattPerCycle": 480,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806087092653",
+    "manufacturer": "LG",
+    "model": "F4WV107P3C",
+    "releaseYear": 2023,
+    "wattPerCycle": 470,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806091562968",
+    "manufacturer": "LG",
+    "model": "V708P2PA",
+    "releaseYear": 2023,
+    "wattPerCycle": 480,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806091821997",
+    "manufacturer": "LG",
+    "model": "F4WV3294 ",
+    "releaseYear": 2023,
+    "wattPerCycle": 500,
+    "capacity": 9,
     "description": "",
     "useInStatistics": true
   },
@@ -573,6 +823,16 @@
     "manufacturer": "Miele",
     "model": "WWD660",
     "releaseYear": 2020,
+    "wattPerCycle": 470,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4002516610014",
+    "manufacturer": "Miele",
+    "model": "WWF664",
+    "releaseYear": 2023,
     "wattPerCycle": 470,
     "capacity": 8,
     "description": "",
@@ -788,12 +1048,102 @@
     "useInStatistics": true
   },
   {
+    "gtin": "4242003931356",
+    "manufacturer": "Siemens",
+    "model": "iQ500 WG44G2F20",
+    "releaseYear": 2023,
+    "wattPerCycle": 460,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003931820",
+    "manufacturer": "Siemens",
+    "model": "iQ500 WM14URG0",
+    "releaseYear": 2023,
+    "wattPerCycle": 460,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003924440",
+    "manufacturer": "Siemens",
+    "model": "iQ300 WM14NK73EX",
+    "releaseYear": 2023,
+    "wattPerCycle": 460,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003925454",
+    "manufacturer": "Siemens",
+    "model": "iQ300 WM14NK03",
+    "releaseYear": 2023,
+    "wattPerCycle": 460,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242003925027",
+    "manufacturer": "Siemens",
+    "model": "iQ300 WM14NK93",
+    "releaseYear": 2023,
+    "wattPerCycle": 460,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4000420114963",
+    "manufacturer": "Telefunken",
+    "model": "W-01-52-W",
+    "releaseYear": 2023,
+    "wattPerCycle": 600,
+    "capacity": 5,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
     "gtin": "8003437728921",
     "manufacturer": "Whirlpool",
     "model": "FWF81683WE",
     "releaseYear": 2018,
     "wattPerCycle": 891,
     "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543992508",
+    "manufacturer": "Zanussi",
+    "model": "ZWF7420WC",
+    "releaseYear": 2023,
+    "wattPerCycle": 590,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543992515",
+    "manufacturer": "Zanussi",
+    "model": "ZWF8430BA",
+    "releaseYear": 2023,
+    "wattPerCycle": 470,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "7332543992522",
+    "manufacturer": "Zanussi",
+    "model": "ZWF9460BA",
+    "releaseYear": 2023,
+    "wattPerCycle": 490,
+    "capacity": 9,
     "description": "",
     "useInStatistics": true
   }
