@@ -388,6 +388,15 @@
     "description": "",
     "useInStatistics": true
   },
+    "gtin": "4242005291830",
+    "manufacturer": "Bosch",
+    "model": "WGG144090",
+    "releaseYear": 2022,
+    "wattPerCycle": 460,
+    "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
   {
     "gtin": "4242005335831",
     "manufacturer": "Bosch",
@@ -455,6 +464,86 @@
     "releaseYear": 2022,
     "wattPerCycle": 690,
     "capacity": 4,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242004250531",
+    "manufacturer": "Constructa",
+    "model": "CWF14N25",
+    "releaseYear": 2021,
+    "wattPerCycle": 620,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242004250692",
+    "manufacturer": "Constructa",
+    "model": "CWF14UT0",
+    "releaseYear": 2021,
+    "wattPerCycle": 620,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242004250616",
+    "manufacturer": "Constructa",
+    "model": "CWF14J01",
+    "releaseYear": 2021,
+    "wattPerCycle": 690,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242004250623",
+    "manufacturer": "Constructa",
+    "model": "CWF12J01",
+    "releaseYear": 2021,
+    "wattPerCycle": 690,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242004260523",
+    "manufacturer": "Constructa",
+    "model": "CWF14N12",
+    "releaseYear": 2022,
+    "wattPerCycle": 690,
+    "capacity": 7,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242004261520",
+    "manufacturer": "Constructa",
+    "model": "CWF12J02",
+    "releaseYear": 2022,
+    "wattPerCycle": 630,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242004260431",
+    "manufacturer": "Constructa",
+    "model": "CWF14G110",
+    "releaseYear": 2022,
+    "wattPerCycle": 670,
+    "capacity": 10,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "4242004261087",
+    "manufacturer": "Constructa",
+    "model": "CWF14G109",
+    "releaseYear": 2022,
+    "wattPerCycle": 460,
+    "capacity": 9,
     "description": "",
     "useInStatistics": true
   },
@@ -625,6 +714,46 @@
     "releaseYear": 2012,
     "wattPerCycle": 973,
     "capacity": 9,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806098554010",
+    "manufacturer": "LG",
+    "model": "F2V7SLIM8",
+    "releaseYear": 2019,
+    "wattPerCycle": 655,
+    "capacity": 8.5,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806098600588",
+    "manufacturer": "LG",
+    "model": "V4W800",
+    "releaseYear": 2020,
+    "wattPerCycle": 730,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806098761517",
+    "manufacturer": "LG",
+    "model": "F4WV508S1",
+    "releaseYear": 2021,
+    "wattPerCycle": 630,
+    "capacity": 8,
+    "description": "",
+    "useInStatistics": true
+  },
+  {
+    "gtin": "8806098792443",
+    "manufacturer": "LG",
+    "model": "F6WV710P1",
+    "releaseYear": 2021,
+    "wattPerCycle": 530,
+    "capacity": 10.5,
     "description": "",
     "useInStatistics": true
   },
