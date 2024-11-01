@@ -6,7 +6,7 @@
     "wattPerCycle": 850,
     "capacity": 6,
     "description": "",
-    "useInStatistics": true
+    "useInStatistics": false
   },
   {
     "gtin": "7332543123414",
