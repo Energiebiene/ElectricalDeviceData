@@ -1300,5 +1300,14 @@
         "wattPerCycle": 1000,
         "capacity": 6,
         "useInStatistics": false
+    },
+    {
+        "gtin": "1111",
+        "manufacturer": "Test",
+        "model": "X4",
+        "releaseYear": 2024,
+        "wattPerCycle": 1000,
+        "capacity": 6,
+        "useInStatistics": false
     }
 ]
