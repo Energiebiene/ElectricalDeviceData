@@ -1292,5 +1292,13 @@
         "wattPerCycle": 1000,
         "capacity": 6,
         "useInStatistics": false
+    },
+    {
+        "manufacturer": "Test",
+        "model": "x2",
+        "releaseYear": 2007,
+        "wattPerCycle": 1000,
+        "capacity": 6,
+        "useInStatistics": false
     }
 ]
